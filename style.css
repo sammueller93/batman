@@ -45,20 +45,22 @@ li {
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
-	width: 95%;
+	width: 100%;
 }
 
 td {
-	margin: 2em;
+	padding: 2em;
 	border: .25em solid #ffff00;
 }
 
 td h3, p {
 	float: left;
+	width: 21%;
 }
 
 td img {
 	float: right;
+	width: 8%;
 }
 
 		/*images*/
