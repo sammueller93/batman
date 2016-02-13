@@ -47,7 +47,7 @@ li {
 
 .jumbotron img {
 	display: block;
-	margin: 5em auto;
+	margin: 6em auto;
 	width: 100%;
 }
 
@@ -87,3 +87,19 @@ td img {
 /*
 --general use
 */
+
+td:hover {
+	overflow:hidden;
+}
+
+td:hover img {
+	width: 12em;
+}
+
+td:hover td h3 {
+	font-size: 3em;
+}
+
+td:hover td p {
+	font-size: 1.5em;
+}
