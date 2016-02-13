@@ -85,6 +85,7 @@ td img {
 ul {
 	margin: 1em auto;
 	position: absolute;
+	clear:both;
 }
 
 li {
