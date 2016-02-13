@@ -53,11 +53,11 @@ li {
 
 table {
 	border-spacing: 1.5em;
+	position: absolute;
 }
 
 table td {
 	border: .25em solid #ffff00;
-	position: absolute;
 }
 
 td * {
