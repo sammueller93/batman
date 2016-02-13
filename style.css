@@ -34,7 +34,7 @@ li {
 	display: inline-block;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 0em 5em;
+	padding: 0em 4em;
 }
 
 /*
@@ -48,9 +48,17 @@ li {
 	width: 95%;
 }
 
-.main div {
+td {
 	margin: 2em;
 	border: .25em solid #ffff00;
+}
+
+td h3, p {
+	float: left;
+}
+
+td img {
+	float: right;
 }
 
 		/*images*/
