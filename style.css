@@ -48,12 +48,16 @@ li {
 	width: 100%;
 }
 
+table {
+	border-spacing: 1em;
+}
+
 td {
-	padding: 2em;
 	border: .25em solid #ffff00;
 }
 
 td h3, p {
+	display:list-item;
 	float: left;
 	width: 21%;
 }
