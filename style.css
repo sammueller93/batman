@@ -3,7 +3,7 @@
 */
 
 body {
-	margin: .5em 2.5em;
+	margin: 1.5em 4em;
 	background-color: #000000;
 }
 
@@ -25,6 +25,9 @@ li a {
 	text-decoration: none;
 }
 
+p {
+	font-size: .5em;
+}
 
 /*
 --structure
