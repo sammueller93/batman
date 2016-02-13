@@ -89,7 +89,7 @@ td img {
 */
 
 td:hover {
-	overflow:hidden;
+	overflow: hidden;
 }
 
 td:hover img {
