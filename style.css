@@ -29,10 +29,12 @@ p {
 	font-size: .75em;
 }
 
-ul {
+li {
 	text-decoration: none;
-	display: inline-flex;
-	justify-content: space-between;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0em 5em;
 }
 
 /*
@@ -48,6 +50,7 @@ ul {
 
 .main div {
 	margin: 2em;
+	border: .25em solid #ffff00;
 }
 
 		/*images*/
