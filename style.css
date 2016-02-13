@@ -66,11 +66,12 @@ td h3, p {
 
 td p {
 	clear: both;
-	width: 60%;
+	width: 40%;
 }
 
 td img {
 	float: right;
+	clear: left;
 	width: 8%;
 }
 
