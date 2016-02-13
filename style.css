@@ -57,7 +57,7 @@ table td {
 }
 
 td * {
-	padding: .75em;
+	padding: .2em .75em;
 }
 
 td h3, p {
