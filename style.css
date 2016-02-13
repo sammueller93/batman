@@ -92,7 +92,7 @@ li {
 
 td:hover {
 	position: relative;
-	transform: scale(1.75,1.75);
+	transform: scale(1.6,1.6);
 	overflow: hidden;
 	background-image: url(black.jpg);
 }
