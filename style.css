@@ -57,6 +57,7 @@ table {
 
 table td {
 	border: .25em solid #ffff00;
+	position: absolute;
 }
 
 td * {
@@ -89,17 +90,6 @@ td img {
 */
 
 td:hover {
-	overflow: hidden;
-}
-
-td:hover img {
-	width: 12em;
-}
-
-td:hover td h3 {
-	font-size: 3em;
-}
-
-td:hover td p {
-	font-size: 1.5em;
+	position: relative;
+	transform: scale(2,2);
 }
