@@ -11,6 +11,15 @@ body {
 --typography
 */
 
+@font-face {
+	font-family: ;
+}
+
+* {
+	color: #fff;
+	font-family: Modern Serif Eroded; src: url("Modern Serif Eroded.ttf");
+}
+
 
 
 /*
