@@ -12,12 +12,13 @@ body {
 */
 
 @font-face {
-	font-family: ;
+	font-family: "Modern Serif Eroded";
+	src: url("Modern Serif Eroded.ttf");
 }
 
 * {
 	color: #fff;
-	font-family: Modern Serif Eroded; src: url("Modern Serif Eroded.ttf");
+	font-family: Modern Serif Eroded;
 }
 
 
