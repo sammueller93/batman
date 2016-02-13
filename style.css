@@ -71,8 +71,7 @@ td p {
 
 td img {
 	float: right;
-	clear: left;
-	width: 8%;
+	clear: both;
 }
 
 		/*images*/
