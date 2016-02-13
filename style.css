@@ -52,7 +52,7 @@ table {
 	border-spacing: 1em;
 }
 
-table > td {
+.outer {
 	border: .25em solid #ffff00;
 }
 
