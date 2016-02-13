@@ -57,9 +57,12 @@ td {
 }
 
 td h3, p {
-	display: table-row;
 	float: left;
 	width: 21%;
+}
+
+td p {
+	clear: both;
 }
 
 td img {
@@ -69,6 +72,9 @@ td img {
 
 		/*images*/
 
+.main img {
+	width: 6em;
+}
 
 /*
 --general use
