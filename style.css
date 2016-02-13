@@ -1,0 +1,26 @@
+/*
+--basic reset 
+*/
+
+body {
+	margin: 2.5em .5em;
+	background-color: #000000;
+}
+
+/*
+--typography
+*/
+
+
+
+/*
+--structure
+*/
+
+.jumbotron img {
+	width: 80%;
+}
+
+/*
+--general use
+*/
