@@ -21,6 +21,9 @@ body {
 	font-family: Modern Serif Eroded;
 }
 
+li a {
+	text-decoration: none;
+}
 
 
 /*
