@@ -35,7 +35,7 @@ p {
 
 ul {
 	margin: 1em auto;
-	position: relative;
+	position: absolute;
 }
 
 li {
@@ -96,5 +96,5 @@ td img {
 td:hover {
 	position: relative;
 	transform: scale(1.5,1.5);
-	z-index: 1;
+	opacity: 1;
 }
