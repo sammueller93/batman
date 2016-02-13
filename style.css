@@ -92,8 +92,14 @@ li {
 */
 
 td:hover {
+	td {
 	position: relative;
 	transform: scale(1.6,1.6);
 	overflow: hidden;
 	background-image: url(black.jpg);
+}
+
+body {
+	opacity: .5;
+}
 }
