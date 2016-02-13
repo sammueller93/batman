@@ -85,7 +85,7 @@ td img {
 ul {
 	margin: 1em auto;
 	position: absolute;
-	clear:both;
+	bottom: 1em;
 }
 
 li {
@@ -101,5 +101,5 @@ td:hover {
 	position: relative;
 	transform: scale(1.5,1.5);
 	overflow: hidden;
-	background-image: image("images\tools.jpg");
+	background-image: url("images\tools.jpg");
 }
