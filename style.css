@@ -21,12 +21,18 @@ body {
 	font-family: Modern Serif Eroded, serif;
 }
 
-li a {
-	text-decoration: none;
+h3 {
+	font-size: 1.5em;
 }
 
 p {
-	font-size: 1em;
+	font-size: .75em;
+}
+
+li {
+	text-decoration: none;
+	display: inline-flex;
+	justify-content: space-between;	
 }
 
 /*
