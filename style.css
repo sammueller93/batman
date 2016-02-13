@@ -47,8 +47,7 @@ li {
 
 .jumbotron img {
 	display: block;
-	margin-right: auto;
-	margin-left: auto;
+	margin: 4em auto;
 	width: 100%;
 }
 
