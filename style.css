@@ -33,11 +33,14 @@ p {
 	font-size: .75em;
 }
 
+ul {
+	margin: 1em auto;
+	clear: both;
+}
+
 li {
 	text-decoration: none;
 	display: inline-block;
-	margin-left: auto;
-	margin-right: auto;
 	padding: 0em 2.5em;
 }
 
@@ -54,6 +57,7 @@ li {
 table {
 	border-spacing: 1.5em;
 	position: absolute;
+	margin: auto;
 }
 
 table td {
