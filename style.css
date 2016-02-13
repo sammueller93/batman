@@ -54,7 +54,6 @@ table {
 table td {
 	border: .25em solid #ffff00;
 	margin: 1em;
-	position: absolute;
 }
 
 td * {
