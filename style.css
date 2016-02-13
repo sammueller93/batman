@@ -56,12 +56,17 @@ td {
 	border: .25em solid #ffff00;
 }
 
+td * {
+	padding: .75em;
+}
+
 td h3, p {
 	float: left;
 }
 
 td p {
 	clear: both;
+	width: 21%;
 }
 
 td img {
