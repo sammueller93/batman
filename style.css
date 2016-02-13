@@ -49,7 +49,7 @@ table {
 	border-spacing: 1.5em;
 	position: absolute;
 	margin: auto;
-	width: 80%;
+	width: 85%;
 }
 
 table td {
@@ -85,7 +85,7 @@ td img {
 ul {
 	margin: 1em auto;
 	position: absolute;
-	display: block;
+	clear: both;
 	bottom: 0em;
 }
 
