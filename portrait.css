@@ -28,7 +28,7 @@ a {
 
 .jumbotron img {
   width: 100%;
-  margin-left: 0em;
+  margin-left: 3em;
   margin-right: 0em;
 }
 
@@ -39,6 +39,7 @@ a {
 h3 {
   font-size: 6em;
   text-align: center;
+  margin-left: 3em;
 }
 
 p {
@@ -46,6 +47,7 @@ p {
   width: 90%;
   text-align: center;
   margin-bottom: 1em;
+  margin-left: 3em;
 }
 
 .main img {
@@ -53,7 +55,7 @@ p {
   margin-left: 10%;
   margin-right: 10%;
   border-bottom: 2px solid yellow;
-  padding-bottom: 20em;
+  padding-bottom: 10em;
   margin-bottom: 5em;
 }
 
