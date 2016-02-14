@@ -1,0 +1,60 @@
+/*
+--general
+*/
+
+body {
+  background-color: #000000;
+}
+
+@@font-face {
+  font-family: "Modern Serif Eroded";
+  src: url("Modern Serif Eroded.ttf");
+}
+
+* {
+  font-family: Modern Serif Eroded, serif;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+/*
+--jumbotron
+*/
+
+.jumbotron img {
+  width: 98%;
+}
+
+/*
+--main
+*/
+
+h3 {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+p {
+  font-sie: .75em;
+  width: 90%
+}
+
+td img {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  width: 90%;
+  display: inline block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*
+--footer
+*/
