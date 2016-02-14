@@ -17,7 +17,7 @@ body {
 }
 
 * {
-	color: #fff;
+	color: lightblue;
 	font-family: Modern Serif Eroded, serif;
 }
 
@@ -59,7 +59,7 @@ a {
 .main a {
 	border: .2em solid yellow;
 	margin: 2em;
-	padding: 0em 1em;
+	padding: 1em 0em;
 	width: 30%;
 }
 
@@ -88,7 +88,7 @@ li {
 
 .right {
 	float: right;
-	clear: right;
+	clear: both;
 }
 
 /*
