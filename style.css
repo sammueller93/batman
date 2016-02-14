@@ -97,7 +97,7 @@ li {
 
 .main a:hover {
 	position: relative;
-	transform: scale(1.9,1.9);
+	transform: scale(1.7,1.7);
 	overflow: hidden;
 	background-image: url(black.jpg);
 	margin: 4em;
