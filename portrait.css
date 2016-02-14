@@ -15,7 +15,7 @@ body {
 
 * {
   font-family: Modern Serif Eroded, serif;
-  color: orange;
+  color: #fff;
 }
 
 a {
@@ -50,7 +50,7 @@ p {
 
 .main img {
   width: 50em;
-  align-content: center;
+  text-align: center;
 }
 
 /*
@@ -61,17 +61,7 @@ li {
   font-size: 4em;
   text-decoration: none;
   display: block;
-  padding: .5em;
+  padding: .25em;
   margin: 1em;
-}
-
-.left {
-  float: left;
-  text-align: center;
-}
-
-.right {
-  float: right;
-  clear: right;
   text-align: center;
 }
