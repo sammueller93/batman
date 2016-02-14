@@ -58,10 +58,9 @@ a {
 
 .main a {
 	border: .2em solid yellow;
-	margin: 2em;
+	margin: 3em;
 	padding: 0em 1em;
-	width: 30%;
-	position: absolute;
+	width: 25%;
 }
 
 		/*footer*/
