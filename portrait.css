@@ -15,7 +15,7 @@ body {
 
 * {
   font-family: Modern Serif Eroded, serif;
-  color: lightblue;
+  color: orange;
 }
 
 a {
@@ -37,19 +37,20 @@ a {
 */
 
 h3 {
-  font-size: 4em;
+  font-size: 6em;
   text-align: center;
 }
 
 p {
-  font-sie: 2em;
+  font-sie: 3em;
   width: 90%
+  text-align: center;
+  margin: .5em;
 }
 
 .main img {
-  width: 40em;
-  margin-left: auto;
-  margin-right: auto;
+  width: 50em;
+  align-content: center;
 }
 
 /*
@@ -57,10 +58,11 @@ p {
 */
 
 li {
-  font-size: 2em;
+  font-size: 4em;
   text-decoration: none;
   display: block;
-  columns: 20em 2;
+  padding: .5em;
+  margin: 1em;
 }
 
 .left {
