@@ -17,7 +17,7 @@ body {
 }
 
 * {
-	color: orange;
+	color: #fff;
 	font-family: Modern Serif Eroded, serif;
 }
 
@@ -100,4 +100,5 @@ li {
 	transform: scale(1.6,1.6);
 	overflow: hidden;
 	background-image: url(black.jpg);
+	margin: 2em;
 }
