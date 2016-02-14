@@ -48,6 +48,10 @@ td img {
   margin-right: auto;
 }
 
+table {
+  display: block;
+}
+
 td {
   width: 90%;
   display: inline block;
@@ -58,3 +62,9 @@ td {
 /*
 --footer
 */
+
+li {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+}
