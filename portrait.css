@@ -46,19 +46,10 @@ p {
   width: 90%
 }
 
-td img {
+.main img {
   width: 40em;
   margin-left: auto;
   margin-right: auto;
-}
-
-table {
-  display: block;
-}
-
-td {
-  width: 100%;
-  display: inline block;
 }
 
 /*
@@ -69,13 +60,16 @@ li {
   font-size: 2em;
   text-decoration: none;
   display: block;
+  columns: 20em 2;
 }
 
 .left {
   float: left;
+  text-align: center;
 }
 
 .right {
   float: right;
   clear: right;
+  text-align: center;
 }

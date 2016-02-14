@@ -59,6 +59,7 @@ a {
 .main a {
 	border: .2em solid yellow;
 	margin: 2em;
+	padding: 0em 1em;
 	width: 30%;
 }
 
@@ -82,10 +83,11 @@ li {
 }
 
 .left {
-	clear: left;
+	float: left;
 }
 
 .right {
+	float: right;
 	clear: right;
 }
 
