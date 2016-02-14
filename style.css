@@ -36,6 +36,8 @@ a {
 	width: 100%;
 }
 
+		/*main*/
+
 .main h3 {
 	text-align: center;
 	font-size: 1.5em;
@@ -56,9 +58,11 @@ a {
 
 .main a {
 	border: .2em solid yellow;
-	border-spacing: 2em;
+	margin: 2em;
 	width: 30%;
 }
+
+		/*footer*/
 
 .top {
 	display: inline-flex;
@@ -73,10 +77,17 @@ a {
 
 li {
 	text-decoration: none;
-	display: inline-flex;
-	justify-content: space-between;
+	display: inline-block;
+	padding: 2em;
 }
 
+.left {
+	clear: left;
+}
+
+.right {
+	clear: right;
+}
 
 /*
 --general use
